@@ -1,0 +1,11 @@
+#border{
+	border: 1px solid black;
+	border-collapse: collapse;
+	cellpadding: "2px"
+}
+h1
+{ background-color:darkturquoise}
+h2
+{ background-color:paleturquoise}
+body 
+{ background-color:beige}
